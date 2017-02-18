@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "rootDir": "src",
+        "noEmitOnError": true,
+        "removeComments": true,
+        "target": "es5",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "noImplicitAny": false
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}

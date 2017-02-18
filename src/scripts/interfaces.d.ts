@@ -1,0 +1,2 @@
+interface IHelloWorldProps { }
+interface IHelloWordState { }

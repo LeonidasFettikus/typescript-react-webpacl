@@ -1,0 +1,27 @@
+{
+  "name": "react-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/scripts/app.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Teichler",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/jquery": "^2.0.40",
+    "@types/react": "^15.0.6",
+    "@types/react-dom": "^0.14.22",
+    "css-loader": "^0.26.1",
+    "jquery": "^3.1.1",
+    "node-sass": "^4.5.0",
+    "office-ui-fabric-react": "^1.5.2",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "sass-loader": "^4.1.1",
+    "style-loader": "^0.13.1",
+    "ts-loader": "^2.0.0",
+    "typescript": "^2.1.5",
+    "webpack": "^2.2.1"
+  }
+}
